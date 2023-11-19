@@ -1,0 +1,11 @@
+Cost,Name.first,Name.last,Operation_name,Patient_Number,_id
+15000,Alan,Turing,Appendectomy,1,636aa7a78ac3cecd31f759aa
+15000,Mac,Hudson,Appendectomy,2,636aa7a78ac3cecd31f759ab
+15000,Carol,Wilson,Appendectomy,3,636aa7a78ac3cecd31f759ac
+17000,Matt,Plank,Breast Biopsy,5,636aa7a78ac3cecd31f759ad
+17000,Kate,McNutt,Breast Biopsy,6,636aa7a78ac3cecd31f759ae
+17000,Julian,Bernart,Breast Biopsy,7,636aa7a78ac3cecd31f759af
+18000,Mike,Fisher,Cholecystectomy,8,636aa7a78ac3cecd31f759b0
+18000,Tommy,Wilson,Cholecystectomy,9,636aa7a78ac3cecd31f759b1
+20000,Jake,Alvarez,Cholecystectomy,10,636aa7a78ac3cecd31f759b2
+20000,NIck,Hilche,Inguinal hernia repair,11,636aa7a78ac3cecd31f759b3

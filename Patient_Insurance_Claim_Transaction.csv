@@ -1,0 +1,11 @@
+Amount,Claim Number,Company Name,Diagnosis,Patient Number,_id
+15000,801,United Health,Appendectomy,1,636ab6e78ac3cecd311879ef
+15000,802,United Health,Appendectomy,2,636ab6e78ac3cecd311879f0
+15000,803,United Health,Appendectomy,3,636ab6e78ac3cecd311879f1
+17000,805,CVS Health,Breast Biopsy,5,636ab6e78ac3cecd311879f2
+17000,806,CVS Health,Breast Biopsy,6,636ab6e78ac3cecd311879f3
+17000,807,CVS Health,Breast Biopsy,7,636ab6e78ac3cecd311879f4
+18000,808,Caresource,Cholecystectomy,8,636ab6e78ac3cecd311879f5
+18000,809,Caresource,Cholecystectomy,9,636ab6e78ac3cecd311879f6
+18000,810,Caresource,Cholecystectomy,10,636ab6e78ac3cecd311879f7
+20000,811,CIGNA,Inguinal hernia repair,11,636ab6e78ac3cecd311879f8

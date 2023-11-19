@@ -1,0 +1,11 @@
+ Doctor Number, Price,Date,Doctor Number,Operating Room,Operation Name,Patient Number,Price,_id
+,,14th Sept 2020,123,201,Appendectomy,1,15349,636a9f448ac3cecd31e7cd16
+,,21st Dec 2021,124,202,Appendectomy,2,16478,636a9f448ac3cecd31e7cd17
+,,01st Aug 2016,125,203,Appendectomy,3,13758,636a9f448ac3cecd31e7cd18
+,13758,16 Aug 2016,125,204,Breast Biopsy,5,,636aa1ac8ac3cecd31ec6f82
+,,18th Aug 2016,126,204,Breast Biopsy,6,17674,636aa1ac8ac3cecd31ec6f83
+,,20th Aug 2016,127,207,Breast Biopsy,7,18473,636aa1ac8ac3cecd31ec6f84
+,,20th sept 2016,128,208,Cholecystectomy,8,17392,636aa1ac8ac3cecd31ec6f85
+,,01st march 2018,129,209,Cholecystectomy,9,19573,636aa1ac8ac3cecd31ec6f86
+,,02nd feb 2022,130,210,Cholecystectomy,10,20184,636aa1ac8ac3cecd31ec6f87
+131,,02nd feb 2013,,211,Inguinal hernia repair,11,21674,636aa1ac8ac3cecd31ec6f88
